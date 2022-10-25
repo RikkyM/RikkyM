@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rikky-Mahendra
+- 👀 I’m interested in Programming and Game
+- 🌱 I’m currently learning Front-End & Back-End Developer
+- 💞️ I’m looking to collaborate on my project
+- 📫 How to reach me you may to contact me on my gmail rikky.mahendra54@gmail.com
