@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rikky Mahendra</h1>
+<h1 align="center">Hi 👋, I'm Rikky Mahendra</h1>
 <h3 align="center">A Full Stack Web Developer from Indonesia</h3>
 
 - 🔭 I’m a fresh graduate **from Institut Teknologi dan Bisnis PalComTech**
