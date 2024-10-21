@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://github.com/RikkyM">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RikkyM&theme=algolia&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikkyM&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RikkyM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RikkyM&layout=compact&langs_count=8&theme=algolia&show_icons=true&hide_border=true&"/>
 </a>
 </p>
