@@ -13,8 +13,7 @@
 <a href="https://instagram.com/_iky09_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rikkymahendra" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,laravel,tailwind,postman"></a>
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,ts,laravel,tailwind,postman,docker,git,github" />
