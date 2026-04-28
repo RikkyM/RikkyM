@@ -3,7 +3,7 @@
 
 - 🔭 I’m a fresh graduate **from Institut Teknologi dan Bisnis PalComTech**
 
-- 🌱 I’m currently learning **Fullstack Web Developer**
+- 🌱 I’m currently learning **Fullstack Developer**
 
 - 📫 How to reach me: **rikky.mahendra54@gmail.com**
 
