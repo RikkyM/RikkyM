@@ -16,7 +16,7 @@
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,svelte,ts,laravel,tailwind,postman,docker,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,bun,nestjs,laravel,docker,postman,git,github" />
   </a>
 </p>
 <!-- <p align="left">
