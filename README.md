@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rikky Mahendra</h1>
-<h3 align="center">A Full Stack Web Developer from Indonesia</h3>
-
-- 🔭 I’m a fresh graduate **from Institut Teknologi dan Bisnis PalComTech**
-
-- 🌱 I’m currently learning **Fullstack Developer**
-
-- 📫 How to reach me: **rikky.mahendra54@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rikky-mahendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikkymahendra" height="30" width="40"></a>
