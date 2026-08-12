@@ -22,6 +22,16 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 </p> -->
 
-<p align="center">
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript            22 hrs 58 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   44.69 %
+PHP                   4 hrs 5 mins          ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.97 %
+Other                 23 hrs 14 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.22 %
+```
+
+<!--END_SECTION:waka-->
+
+<!-- <p align="center">
 <a href="https://github.com/RikkyM"><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RikkyM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RikkyM&layout=compact&langs_count=8&theme=algolia&show_icons=true&hide_border=true&"/></a>
-</p>
+</p> -->
