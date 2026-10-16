@@ -7,7 +7,7 @@
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,bun,nestjs,laravel,docker,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite,nodejs,bun,nestjs,laravel,redis,docker,postman,git,github" />
   </a>
 </p>
 <!-- <p align="left">
